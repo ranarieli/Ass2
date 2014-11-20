@@ -16,7 +16,7 @@ using namespace std;
 
 
 int main(int argc, char *argv[]){
-
+ind david =3;
 	  string arg1 = "RoadMap.ini";
 	  string arg2 = "Configurations.ini";
 	  string arg3 = "Commands.ini";
@@ -33,7 +33,6 @@ int main(int argc, char *argv[]){
 //	    std::cout << it->first << " => " << it->second << '\n';
 
 delete conf;
-
 
 
 
